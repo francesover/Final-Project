@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Archivo+Black&family=Bangers&family=Bebas+Neue&family=Cinzel&family=Corben&family=Cute+Font&family=EB+Garamond&family=Goldman&family=Roboto+Condensed:ital,wght@0,300;1,300&family=Space+Mono&family=Staatliches&family=Tinos&display=swap');
+
+h1 {
+  font-family: 'Cute Font', cursive;
+  font-size: 160px;
+  margin-left: 20px;
+}
+
+h2 {
+  font-family: 'Cute Font', cursive;
+  font-size: 60px;
+  margin-left: 50px;
+}
+
+.main img {
+  width: 1500px;
+  length: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+}
+
+.first h3{
+  font-family: 'Corben', cursive;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: left;
+  font-size: 30px;
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+.sec h3{
+  font-family: 'Corben', cursive;
+  font-size: 30px;
+  margin-left: 45px;
+  margin-right: 45px;
+  margin-bottom: 100px;
+}
+
+.ten {
+  display: flex;
+  margin: 0 2vw;
+}
+
+.ten h2 {
+  font-family: 'Bebas Neue', cursive;
+}
+
+.dix {
+  display: grid;
+  margin-left: 45px;
+  grid-gap: 20px;
+}
+
+.dix img {
+  margin-left: 60px;
+  width: 350px;
+  length: 150px;
+}
+
+.dix h3 {
+  font-family: 'Corben', cursive;
+  margin-left: 60px;
+  margin-right: 80px;
+  font-size: 40px;
+}
+
+.nine {
+  display: flex;
+  margin-top: 200px;
+}
+
+.neuf {
+  display: grid;
+  margin-left: 45px;
+  grid-gap: 20px;
+}
+
+.nine h2 {
+  font-family: 'Goldman', cursive;
+}
+
+.neuf h3 {
+  font-family: 'Corben', cursive;
+  margin-left: 60px;
+  margin-right: 425px;
+  font-size: 40px;
+}
+
+.neuf img {
+  margin-left: 60px;
+  width: 350px;
+  length: 150px;
+}
+
+.eight {
+  display: flex;
+  margin: 0 2vw;
+  margin-top: 200px;
+}
+
+.eight img {
+  width: 400px;
+  length: 400px;
+}
+
+.huit h2 {
+  font-family: 'Bangers', cursive;
+}
+
+.huit {
+  display: grid;
+  margin-left: 45px;
+  grid-gap: 20px;
+}
+
+.huit img {
+  margin-left: 60px;
+  width: 350px;
+  length: 150px;
+  margin-right: 250px;
+}
+
+.huit h3 {
+  font-family: 'Corben', cursive;
+  margin-left: 60px;
+  margin-right: 80px;
+  font-size: 40px;
+}
+
+.seven {
+  display: flex;
+  margin: 0 2vw;
+  margin-top: 200px;
+}
+
+.sept h2 {
+  font-family: 'EB Garamond', serif;
+}
+
+.sept {
+  display: grid;
+  margin-left: 45px;
+  grid-gap: 20px;
+}
+
+.sept img {
+  margin-left: 60px;
+  width: 350px;
+  length: 150px;
+}
+
+.sept h3 {
+  font-family: 'Corben', cursive;
+  margin-left: 60px;
+  margin-right: 80px;
+  font-size: 40px;
+}
+
+.six {
+  display: flex;
+  margin: 0 2vw;
+  margin-top: 200px;
+}
+
+.six h2 {
+  font-family: 'Cinzel', serif;
+}
+
+.siix {
+  display: grid;
+  margin-left: 45px;
+  grid-gap: 20px;
+}
+
+.siix img {
+  margin-left: 60px;
+  width: 350px;
+  length: 150px;
+}
+
+.siix h3 {
+  font-family: 'Corben', cursive;
+  margin-left: 60px;
+  margin-right: 80px;
+  font-size: 40px;
+}
+
+.five {
+  display: flex;
+  margin: 0 2vw;
+  margin-top: 200px;
+}
+
+.five h2 {
+  font-family: 'Space Mono', monospace;
+}
+
+.cinq {
+  display: grid;
+  margin-left: 45px;
+  grid-gap: 20px;
+}
+
+.cinq img {
+  margin-left: 60px;
+  width: 350px;
+  length: 150px;
+}
+
+.cinq h3 {
+  font-family: 'Corben', cursive;
+  margin-left: 60px;
+  margin-right: 80px;
+  font-size: 40px;
+}
+
+.four {
+  display: flex;
+  margin: 0 2vw;
+  margin-top: 200px;
+}
+
+.four h2 {
+  font-family: 'Staatliches', cursive;
+}
+
+.quatre {
+  display: grid;
+  margin-left: 45px;
+  grid-gap: 20px;
+}
+
+.quatre img {
+  margin-left: 60px;
+  width: 350px;
+  length: 150px;
+}
+
+.quatre h3 {
+  font-family: 'Corben', cursive;
+  margin-left: 60px;
+  margin-right: 80px;
+  font-size: 40px;
+}
+
+.three {
+  display: flex;
+  margin: 0 2vw;
+  margin-top: 200px;
+}
+
+.three h2 {
+  font-family: 'Acme', sans-serif;
+}
+
+.trois {
+  display: grid;
+  margin-left: 45px;
+  grid-gap: 20px;
+}
+
+.trois img {
+  margin-left: 60px;
+  width: 350px;
+  length: 150px;
+}
+
+.trois h3 {
+  font-family: 'Corben', cursive;
+  margin-left: 60px;
+  margin-right: 80px;
+  font-size: 40px;
+}
+
+.second {
+  display: flex;
+  margin: 0 2vw;
+  margin-top: 200px;
+}
+
+.second h2 {
+  font-family: 'Tinos', serif;
+}
+
+.deux {
+  display: grid;
+  margin-left: 45px;
+  grid-gap: 20px;
+}
+
+.deux img {
+  margin-left: 60px;
+  width: 350px;
+  length: 150px;
+}
+
+.deux h3 {
+  font-family: 'Corben', cursive;
+  margin-left: 60px;
+  margin-right: 80px;
+  font-size: 40px;
+}
+
+.one {
+  display: flex;
+  margin: 0 2vw;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.one h2 {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+.un {
+  display: grid;
+  margin-left: 45px;
+  grid-gap: 20px;
+}
+
+.un img {
+  margin-left: 60px;
+  width: 350px;
+  length: 150px;
+}
+
+.un h3 {
+  font-family: 'Corben', cursive;
+  margin-left: 60px;
+  margin-right: 80px;
+  font-size: 40px;
+}
+
+.matrix img {
+  width: 500px;
+  height: 700px;
+}
+
+.texas img {
+  width: 500px;
+  height: 700px;
+}
+
+.perks img {
+  width: 500px;
+  height: 700px;
+}
+
+.mean img {
+  width: 500px;
+  height: 700px;
+}
+
+.goonies img {
+  width: 500px;
+  height: 700px;
+}
+
+.thor img {
+  width: 500px;
+  height: 700px;
+}
+
+.jump img {
+  width: 500px;
+  height: 700px;
+}
